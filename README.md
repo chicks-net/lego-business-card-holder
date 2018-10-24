@@ -1,5 +1,7 @@
 # LEGO® business card holder
 
+![completed business card holder by chicks](instructions/business_card_holder-08.png)
+
 ## Inspiration
 
 This was definitely inspired by LEGO's
@@ -20,22 +22,24 @@ I'm sorry I don't include a minifig with this.
 
 | Part ID | Part Name | Quantity | Color | Color Code |
 | ------- | --------- | -------- | ----- | ---------- |
-| 3010 | Brick  1 x  4 | 5 | Lime | 27 |
-| 3068b | Tile  2 x  2 with Groove | 1 | Bright Light Yellow | 226 |
+| 3958 | Plate  6 x  6 | 2 | Lime | 27 |
 | 3622 | Brick  1 x  3 | 2 | Lime | 27 |
+| 3010 | Brick  1 x  4 | 5 | Lime | 27 |
+| 3684c | Slope Brick 75  2 x  2 x  3 with Solid Studs | 12 | Lime | 27 |
+| 4865b | Panel  1 x  2 x  1 with Rounded Corners | 2 | White | 15 |
 | 3701 | Technic Brick  1 x  4 with Holes | 1 | Light Grey | 7 |
 | 3894 | Technic Brick  1 x  6 with Holes | 1 | Light Grey | 7 |
 | 3895 | Technic Brick  1 x 12 with Holes | 1 | Light Grey | 7 |
-| 3958 | Plate  6 x  6 | 2 | Lime | 27 |
 | 6636 | Tile  1 x  6 | 4 | Bright Light Yellow | 226 |
+| 3068b | Tile  2 x  2 with Groove | 1 | Bright Light Yellow | 226 |
 | 87079 | Tile  2 x  4 with Groove | 2 | White | 15 |
-| 4865b | Panel  1 x  2 x  1 with Rounded Corners | 2 | White | 15 |
-| 3684c | Slope Brick 75  2 x  2 x  3 with Solid Studs | 12 | Lime | 27 |
 
 
 ## Instructions
 
-TODO: linkify
+* [LeoCAD-generateed instructions](instructions)
+
+TODO: link better
 
 ## Author
 
