@@ -14,7 +14,7 @@ But those colors are pretty sad.  We probably don't need a blank business card t
 but they made it look nice.  Still, I can't imagine why LEGO made the back of this *straight*.
 Clearly it should be sloped like every other business card holder made.
 
-I'm sorry I don't include a minifig with this.
+I'm sorry I don't include a minifig with my version.  I'm open to suggestions.
 
 ## Parts Needed
 
@@ -34,12 +34,18 @@ I'm sorry I don't include a minifig with this.
 | 3068b | Tile  2 x  2 with Groove | 1 | Bright Light Yellow | 226 |
 | 87079 | Tile  2 x  4 with Groove | 2 | White | 15 |
 
+Swapping the Lime pieces, panels, and tiles you can make your own combinations.
+I like Blue and White.  See [Design for Hackers](https://designforhackers.com/) for
+color theory.
 
 ## Instructions
 
 * [LeoCAD-generated instructions](instructions/README.md)
 
-TODO: link better
+## Support
+
+Please file [github issues](https://github.com/chicks-net/lego-business-card-holder/issues)
+for things not [already planned](TODO.md).
 
 ## Author
 
