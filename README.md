@@ -37,7 +37,7 @@ I'm sorry I don't include a minifig with this.
 
 ## Instructions
 
-* [LeoCAD-generateed instructions](instructions)
+* [LeoCAD-generated instructions](instructions/README.md)
 
 TODO: link better
 
