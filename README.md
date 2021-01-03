@@ -1,6 +1,7 @@
 # LEGO® business card holder
 
-![completed business card holder by chicks](instructions/business_card_holder-08.png)
+![completed business card holder by chicks in Blue](img/business_card_holder2_blue.png)
+![completed business card holder by chicks in Lime](img/business_card_holder2.png)
 
 ## Inspiration
 
@@ -10,15 +11,28 @@ This was definitely inspired by LEGO's
 ![850425 picture](https://images.brickset.com/sets/images/850425-1.jpg)
 
 I really like the printed tiles in this set and who doesn't need more minifigs!
-But those colors are pretty sad.  We probably don't need a blank business card to fill in,
-but they made it look nice.  Still, I can't imagine why LEGO made the back of this *straight*.
+But those colors look like they just went with all of the primary colors.
+We probably don't need a blank business card to fill in, but they made
+it look nice.  Still, I can't imagine why LEGO made the back of this *straight*.
 Clearly it should be sloped like every other business card holder made.
 
 I'm sorry I don't include a minifig with my version.  I'm open to suggestions.
 
-## Parts Needed
+## version 2
 
-![parts](instructions/business_card_holder-parts.png)
+I moved to [Studio](https://www.bricklink.com/v3/studio/download.page).
+It imported the [LDR model](business_card_holder.ldr) just fine.
+I then took the [Lime and Yellow version in Studio](business_card_holder2.io)
+and made a [Blue and White version](business_card_holder2_blue.io).
+
+## version 1
+
+I did version 1 in [LeoCAD](https://www.leocad.org/) with Lime bricks and
+yellow accents.
+
+### Parts Needed
+
+![parts](leocad_v1_instructions/business_card_holder-parts.png)
 
 | Part ID | Part Name | Quantity | Color | Color Code |
 | ------- | --------- | -------- | ----- | ---------- |
