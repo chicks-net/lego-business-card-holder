@@ -38,7 +38,7 @@ The blue and white version now has
 I did version 1 in [LeoCAD](https://www.leocad.org/) with Lime bricks and
 yellow accents.
 The [LeoCAD-generated instructions](leocad_v1_instructions/README.md) are
-still include in this git repo.
+still included in this git repo.
 
 ### Parts Needed
 

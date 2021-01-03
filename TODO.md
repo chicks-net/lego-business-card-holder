@@ -1,5 +1,4 @@
 # lego-business-card-holder TODO's
 
-* ?? linkify better
+* share on rebrickable
 * github.io links
-* share more
