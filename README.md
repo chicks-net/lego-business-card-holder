@@ -6,7 +6,7 @@
 ## Inspiration
 
 This was definitely inspired by LEGO's
-[design 850425](https://brickset.com/sets/850425-1/Desk-Business-Card-Holder).
+[design, set 50425](https://brickset.com/sets/850425-1/Desk-Business-Card-Holder).
 
 ![850425 picture](https://images.brickset.com/sets/images/850425-1.jpg)
 
@@ -21,14 +21,24 @@ I'm sorry I don't include a minifig with my version.  I'm open to suggestions.
 ## version 2
 
 I moved to [Studio](https://www.bricklink.com/v3/studio/download.page).
-It imported the [LDR model](business_card_holder.ldr) just fine.
+Studio imported the [LDR model](business_card_holder.ldr) just fine.
+
+I've been wanting to swap out the 3895 Technic 1x12 brick because the color
+showed on the sides and there's little reason to waste a $.60 part on this
+when 3 cheaper parts will do.  Right now the blue 3010 is $.08 and the dark
+bluish gray is also $.08, so you're saving $.34.
+
 I then took the [Lime and Yellow version in Studio](business_card_holder2.io)
 and made a [Blue and White version](business_card_holder2_blue.io).
+The blue and white version now has
+[PDF instructions](business_card_holder_v2_instructions.pdf).
 
 ## version 1
 
 I did version 1 in [LeoCAD](https://www.leocad.org/) with Lime bricks and
 yellow accents.
+The [LeoCAD-generated instructions](leocad_v1_instructions/README.md) are
+still include in this git repo.
 
 ### Parts Needed
 
@@ -51,10 +61,6 @@ yellow accents.
 Swapping the Lime pieces, panels, and tiles you can make your own combinations.
 I like Blue and White.  See [Design for Hackers](https://designforhackers.com/) for
 color theory.
-
-## Instructions
-
-* [LeoCAD-generated instructions](instructions/README.md)
 
 ## Support
 
