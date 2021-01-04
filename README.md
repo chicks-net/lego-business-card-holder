@@ -6,6 +6,7 @@
 
 
 ![completed business card holder by chicks in Blue](img/business_card_holder2_blue.png)
+![back of completed business card holder by chicks in Blue](img/business_card_holder2_blue_back.png)
 ![completed business card holder by chicks in Lime](img/business_card_holder2.png)
 
 ## Inspiration
