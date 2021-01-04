@@ -1,6 +1,6 @@
 # LEGO® business card holder
 
-[![rebrickable](img/rebrickable_logo.png)](https://rebrickable.com/mocs/MOC-61370/chicks/business-card-holder/)
+[![rebrickable](img/rebrickable_badge.png)](https://rebrickable.com/mocs/MOC-61370/chicks/business-card-holder/)
 [![GPLv2 license](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://github.com/chicks-net/lego-business-card-holder/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/chicks-net/lego-business-card-holder/graphs/commit-activity)
 
