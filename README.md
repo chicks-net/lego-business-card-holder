@@ -70,9 +70,11 @@ color theory.
 
 ## Support
 
-Please file [github issues](https://github.com/chicks-net/lego-business-card-holder/issues)
+Please file
+[github issues](https://github.com/chicks-net/lego-business-card-holder/issues)
 for things not [already planned](TODO.md).
-Refer to [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to learn about our expectations for contributors.
+Refer to [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to learn about our
+expectations for contributors.
 
 ## Author
 
