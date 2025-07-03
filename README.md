@@ -30,9 +30,10 @@ I moved to [Studio](https://www.bricklink.com/v3/studio/download.page).
 Studio imported the [LDR model](business_card_holder.ldr) just fine.
 
 I've been wanting to swap out the 3895 Technic 1x12 brick because the color
-showed on the sides and there's little reason to waste a $.60 part on this
-when 3 cheaper parts will do.  Right now the blue 3010 is $.08 and the dark
-bluish gray is also $.08, so you're saving $.34.
+showed on the sides and there's little reason to waste a <span>$</span>.60 part
+on this when 3 cheaper parts will do.  Right now the blue 3010 is
+<span>$</span>.08 and the dark bluish gray is also <span>$</span>.08, so you're
+saving <span>$</span>.34.
 
 I then took the [Lime and Yellow version in Studio](business_card_holder2.io)
 and made a [Blue and White version](business_card_holder2_blue.io).
