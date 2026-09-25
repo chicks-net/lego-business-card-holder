@@ -29,6 +29,7 @@ All Markdown files should comply with `markdownlint`. Use `markdownlint-cli2` to
 ## Design Philosophy
 
 The design improves on LEGO's official set 850425 by:
+
 - Adding a sloped back (instead of straight) like traditional business card holders
 - Optimizing part costs (e.g., replacing expensive Technic 1x12 brick with three cheaper parts)
 - Supporting custom color combinations (Lime/Yellow, Blue/White, etc.)

@@ -1,4 +1,4 @@
 # lego-business-card-holder TODO's
 
-* youtube video
-* ?? github.io links
+- youtube video
+- ?? github.io links

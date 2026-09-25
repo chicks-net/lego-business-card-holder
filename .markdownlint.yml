@@ -1,0 +1,20 @@
+---
+# Enable all default rules
+default: True
+# MD013 - Line length: disabled (no line length limit)
+MD013: False
+# MD041 - First line heading: disabled (files need not start with a top-level heading)
+MD041: False
+# MD042 - No empty links: disabled
+MD042: False
+# MD033 - No inline HTML: allow <span>, which wraps bare $ signs so GitHub
+# won't interpret pairs of them as math delimiters (see commit a7bb202)
+MD033:
+  allowed_elements:
+    - span
+# MD004 - Unordered list style: enforce dashes (-) instead of asterisks or plus signs
+MD004:
+  style: dash
+# MD010 - Hard tabs: allow hard tabs inside code blocks
+MD010:
+  code_blocks: False
