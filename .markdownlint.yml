@@ -7,6 +7,11 @@ MD013: False
 MD041: False
 # MD042 - No empty links: disabled
 MD042: False
+# MD033 - No inline HTML: allow <span>, which wraps bare $ signs so GitHub
+# won't interpret pairs of them as math delimiters (see commit a7bb202)
+MD033:
+  allowed_elements:
+    - span
 # MD004 - Unordered list style: enforce dashes (-) instead of asterisks or plus signs
 MD004:
   style: dash
